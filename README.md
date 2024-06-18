@@ -72,7 +72,7 @@ In this project, we will:
 
 ## Conclusion
 
-This project provided hands-on experience with AWS infrastructure, networking, and security configurations, as well as practical knowledge of deploying a vulnerable web application for penetration testing purposes. By setting up Juice Shop in a private subnet and configuring essential network components, we ensured a secure environment for testing and learning. This setup not only demonstrates technical proficiency but also a strong understanding of cloud security practices.
+This project provided hands-on experience with AWS infrastructure, networking, and security configurations, as well as practical knowledge of deploying a vulnerable web application for penetration testing purposes. By setting up Juice Shop in a private subnet and configuring essential network components, we ensured a secure environment for testing and learning.
 
 
 <h2>Platforms and Technologies Used</h2>
